@@ -1,3 +1,6 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=cheemsandfriends&&theme=dark)
+
+![OtherStats](https://github-readme-stats.vercel.app/api/top-langs/?username=cheemsandfriends&layout=compact&theme=dark)
 ### Hello There!
 
 Hello, You maybe recognise me from PR's, Twitter, Twitch or maybe Haxe's Discord if it's Miss Muffin.
