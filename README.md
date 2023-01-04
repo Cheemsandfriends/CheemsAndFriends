@@ -13,11 +13,6 @@ I personally use <b>HaxeFlixel</b>, a game engine that has been built on top of 
 
 <h1 align="center"> Stats </h1>
 
-<picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=CheemsAndFriends&theme=dark"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CheemsAndFriends&theme=dark"></img>
-</picture>
-<picture>
-<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CheemsAndFriends&theme=dark"/>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheemsAndFriends&theme=dark"></img>
-</picture>
