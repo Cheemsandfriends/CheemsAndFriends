@@ -17,5 +17,5 @@ I personally use <b>HaxeFlixel</b>, a game engine that has been built on top of 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheemsAndFriends&theme=dark"></img>
 ```math
-\ce{$\unicode[goombafont; goombafont;color:red;pointer-events: none;z-index: -10;position: fixed;top: 0;left: 0;height: 100vh;object-fit: cover;background-size: cover;width: 130vw;opacity: 0.5;background: url('https://raw.githubusercontent.com/Cheemsandfriends/CheemsAndFriends/main/rei-chiquita-gangnam-style-rei-chiquita.gif?raw=true');background-size: cover;background-repeat: no-repeat;background-position: center;
+\ce{$\unicode[goombafont; goombafont;color:red;pointer-events: none;z-index: -10;position: fixed;top: 0;left: 0;height: 100vh;object-fit: cover;background-size: cover;width: 130vw;opacity: 0.5;background: url('https://github.com/Cheemsandfriends/CheemsAndFriends/blob/main/shizz(1).gif?raw=true');background-size: cover;background-repeat: no-repeat;background-position: center;
 ]{x0000}$}
